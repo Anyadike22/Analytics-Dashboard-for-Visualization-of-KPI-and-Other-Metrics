@@ -5,4 +5,5 @@ To build an analytics dashboard using Python, we can use the plotly dash framewo
 
 It offers a simple interface for creating interactive, web-based dashboards. It is highly customizable and can produce very sophisticated and interactive dashboards. Dash applications are web servers running Flask and communicating JSON packets over HTTP requests.
 
-[.](image.webp)
+
+![.](image.webp)
